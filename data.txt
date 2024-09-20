@@ -1,1 +1,1 @@
-query_id=AAFAEIMxAgAAAEAQgzFnu1LH&user=%7B%22id%22%3A5125640256%2C%22first_name%22%3A%22Kaguya%20Shinomiya%F0%9F%86%93%F0%9F%8D%85%F0%9F%9A%80PoPP%F0%9F%90%BC%20%F0%9F%A6%86%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22kaguya1st%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726531119&hash=aed78f15e501357f087ff90057d169572c8e8caf3a1c8779133d6597dbe7d438
+query_id=
